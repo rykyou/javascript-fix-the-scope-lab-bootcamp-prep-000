@@ -34,3 +34,4 @@ function funkyFunction() {
 }
 var theFunk = funkyFunction()
 
+theFunk()
