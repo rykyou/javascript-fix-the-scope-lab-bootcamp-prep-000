@@ -30,8 +30,7 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 function funkyFunction() {
-  return function() {
-    return "FUNKY!"
-  }
+  var funkyFunction = "FUNKY!"
+  return funkyFunction
 }
 var theFunk = funkyFunction()
